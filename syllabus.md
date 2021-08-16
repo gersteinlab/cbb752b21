@@ -493,8 +493,10 @@ layout: page
                 <td class="s37" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.03/210203_Genomics.pdf">x</a></td>
                 <td class="s1"></td>
-                <td class="s1"></td>
-                <td class="s22"></td>
+                <td class="s37" dir="ltr">
+                    <a target="_blank" href="https://youtu.be/1Ns--G_v4pY">x</a></td>
+                <td class="s37" dir="ltr">
+                    <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0203.mp4">x</a></td>
             </tr>
             <tr style="height: 16px">
                 <td class="s29" dir="ltr">DATA</td>
@@ -505,8 +507,10 @@ layout: page
                 <td class="s37" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.08/210207_Genomics_II.pdf">x</a></td>
                 <td class="s1"></td>
-                <td class="s1"></td>
-                <td class="s22"></td>
+                <td class="s37" dir="ltr">
+                    <a target="_blank" href="https://youtu.be/XYxxfF1O0Y4">x</a></td>
+                <td class="s37" dir="ltr">
+                    <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0208.mp4">x</a></td>
             </tr>
             <tr style="height: 16px">
                 <td class="s1"></td>
