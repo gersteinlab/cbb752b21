@@ -1051,3 +1051,4 @@ layout: page
     </table>
 </div>
 </html>
+Please see lab [permissions statement](https://sites.gersteinlab.org/permissions) in relation to resusing any of the above material. 
