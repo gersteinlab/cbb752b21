@@ -280,17 +280,6 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                 <td class="s1"></td>
                 <td class="s1"></td>
             </tr>
-             <tr style="height: 16px">
-                <td class="s1"></td>
-                <td class="s45"></td>
-                <td class="s26" dir="ltr"></td>
-                <td class="s1"></td>
-                <td class="s1"></td>
-                <td class="s1"></td>
-                <td class="s1"></td>
-                <td class="s1"></td>
-                <td class="s22"></td>
-            </tr>
             <tr style="height: 16px">
                 <td class="s2" dir="ltr">19</td>
                 <td class="s3">M</td>
@@ -967,6 +956,17 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <a target="_blank" href="https://youtu.be/DHYSXCLwrXQ">x</a></td>
                 <td class="s32" dir="ltr">
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0407.mp4">x</a></td>
+            </tr>
+            <tr style="height: 16px">
+                <td class="s1"></td>
+                <td class="s45"></td>
+                <td class="s26" dir="ltr"></td>
+                <td class="s1"></td>
+                <td class="s1"></td>
+                <td class="s1"></td>
+                <td class="s1"></td>
+                <td class="s1"></td>
+                <td class="s22"></td>
             </tr>
             <tr style="height: 16px">
                 <td class="s1" dir="ltr">MINING</td>
