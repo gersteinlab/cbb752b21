@@ -676,18 +676,23 @@ layout: page
                     <a target="_blank" href="https://youtu.be/6518t-LZPIU">x</a></td>
                 <td class="s32" dir="ltr">
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-8mar21.07-multi-omics.onweb.mp4">x</a></td>
-            </tr>
-            <tr style="height: 16px">
-                <td class="s1" dir="ltr"></td>
+                
+                <tr style="height: 18px">
+                <td class="s35" dir="ltr"></td>
                 <td class="s1" dir="ltr"></td>
                 <td class="s3" dir="ltr"></td>
                 <td class="s26" dir="ltr"></td>
-                <td class="s42" dir="ltr"></td>
-                <td class="s31" dir="ltr"></td>
+                <td class="s35" dir="ltr"></td>
+                <td class="s36" dir="ltr"></td>
                 <td class="s31" dir="ltr"></td>
                 <td class="s32" dir="ltr"></td>
-                <td class="s37" dir="ltr"></td>
+                <td class="s32" dir="ltr"></td>
             </tr>
+                
+                
+                
+                
+            
             <tr style="height: 16px">
                 <td class="s1" dir="ltr">MINING</td>
                 <td class="s45"></td>
