@@ -280,6 +280,17 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                 <td class="s1"></td>
                 <td class="s1"></td>
             </tr>
+             <tr style="height: 16px">
+                <td class="s1"></td>
+                <td class="s45"></td>
+                <td class="s26" dir="ltr"></td>
+                <td class="s1"></td>
+                <td class="s1"></td>
+                <td class="s1"></td>
+                <td class="s1"></td>
+                <td class="s1"></td>
+                <td class="s22"></td>
+            </tr>
             <tr style="height: 16px">
                 <td class="s2" dir="ltr">19</td>
                 <td class="s3">M</td>
