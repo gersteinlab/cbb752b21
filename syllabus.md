@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## Syllabus
-Please see lab [permissions statement](https://sites.gersteinlab.org/permissions) in relation to resusing any of the above material. 
+Please see lab [permissions statement](https://sites.gersteinlab.org/permissions) in relation to resusing any of the below material. 
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link type="text/css" rel="stylesheet" href="resources/sheet.css">
