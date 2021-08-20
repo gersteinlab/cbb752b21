@@ -427,7 +427,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                 <td class="s23"></td>
                 <td class="s23"></td>
                 <td class="s23"></td>
-                <td class="s24" dir="ltr" colspan="6">Lecture Slide Pack</td>
+                <td class="s24" dir="ltr" colspan="6">Lecture Slide Pack and Video</td>
             </tr>
             <tr style="height: 66px">
                 <td class="s23"></td>
