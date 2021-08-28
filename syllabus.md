@@ -432,7 +432,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s29" dir="ltr">INTRO</td>
                     <td class="s30" dir="ltr"></td>
                     <td class="s3" dir="ltr">2/1</td>
-                    <td class="s26" dir="ltr">1</td>
+                    <td class="s26" dir="ltr">I1</td>
                     <td class="s14" dir="ltr">Introduction to Biomedical Data Science</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.21/cbb752-MG-spr21-01-biomed-datasci-intro.pdf">x</a></td>
@@ -447,7 +447,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s29" dir="ltr">INTRO</td>
                     <td class="s30"></td>
                     <td class="s3" dir="ltr">2/24</td>
-                    <td class="s26" dir="ltr">2</td>
+                    <td class="s26" dir="ltr">I2</td>
                     <td class="s14" dir="ltr">Introduction to Personal Genomes</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-02-personalgenomes-intro.pdf">x</a></td>
@@ -488,7 +488,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s29" dir="ltr">DATA</td>
                     <td class="s1"></td>
                     <td class="s3" dir="ltr">2/3</td>
-                    <td class="s26" dir="ltr">1</td>
+                    <td class="s26" dir="ltr">D1</td>
                     <td class="s9" dir="ltr">Genomics I</td>
                     <td class="s37" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.03/210203_Genomics.pdf">x</a></td>
@@ -502,7 +502,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s29" dir="ltr">DATA</td>
                     <td class="s1"></td>
                     <td class="s3" dir="ltr">2/8</td>
-                    <td class="s26" dir="ltr">2</td>
+                    <td class="s26" dir="ltr">D2</td>
                     <td class="s9" dir="ltr">Genomics II</td>
                     <td class="s37" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.08/210207_Genomics_II.pdf">x</a></td>
@@ -527,7 +527,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">DATA</td>
                     <td class="s1"></td>
                     <td class="s3">2/10</td>
-                    <td class="s26" dir="ltr">1</td>
+                    <td class="s26" dir="ltr">D3</td>
                     <td class="s38" dir="ltr">Proteomics I</td>
                     <td class="s37" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.10/CBB_752_2021_Proteins.pdf">x</a></td>
@@ -541,7 +541,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">DATA</td>
                     <td class="s1"></td>
                     <td class="s3">2/15</td>
-                    <td class="s26" dir="ltr">2</td>
+                    <td class="s26" dir="ltr">D4</td>
                     <td class="s38" dir="ltr">Proteomics II</td>
                     <td class="s37" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.15/CBB_752_2021_Structure.pdf">x</a></td>
@@ -566,7 +566,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">DATA</td>
                     <td class="s1"></td>
                     <td class="s3">2/17</td>
-                    <td class="s26" dir="ltr"></td>
+                    <td class="s26" dir="ltr">D5</td>
                     <td class="s40" dir="ltr">Knowledge Representation &amp; Databases</td>
                     <td class="s1"></td>
                     <td class="s37" dir="ltr">
@@ -591,7 +591,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/1</td>
-                    <td class="s26" dir="ltr">3</td>
+                    <td class="s26" dir="ltr">M3</td>
                     <td class="s14" dir="ltr">Pairwise Sequence Comparison</td>
                     <td class="s36" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-03-seqcmp.pdf">x</a></td>
@@ -606,7 +606,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/1</td>
-                    <td class="s26" dir="ltr">4</td>
+                    <td class="s26" dir="ltr">M4</td>
                     <td class="s14" dir="ltr">Multiple Sequence Comparison</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-04-multiseq.pdf">x</a></td>
@@ -621,7 +621,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/3</td>
-                    <td class="s26" dir="ltr">5</td>
+                    <td class="s26" dir="ltr">M5</td>
                     <td class="s42" dir="ltr">Fast Alignment</td>
                     <td class="s41" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-05-fastalign.pdf">x</a></td>
@@ -636,7 +636,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/3</td>
-                    <td class="s26" dir="ltr">6a</td>
+                    <td class="s26" dir="ltr">M6a</td>
                     <td class="s42" dir="ltr">Variant Identification, Focusing on SVs</td>
                     <td class="s41" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-06-SNVs-SVs.pdf">x</a></td>
@@ -651,7 +651,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/8</td>
-                    <td class="s26" dir="ltr">6b</td>
+                    <td class="s26" dir="ltr">M6b</td>
                     <td class="s42" dir="ltr">1000 Genome + PCAWG summary</td>
                     <td class="s41" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-06b-1000G-PCAWG.pdf">x</a></td>
@@ -666,7 +666,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/8</td>
-                    <td class="s26" dir="ltr">7</td>
+                    <td class="s26" dir="ltr">M7</td>
                     <td class="s42" dir="ltr">Basic Multi-omics (pipeline processing)</td>
                     <td class="s41" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-07-multi-omics.pdf">x</a></td>
@@ -692,7 +692,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/8</td>
-                    <td class="s26" dir="ltr">8a</td>
+                    <td class="s26" dir="ltr">M8a</td>
                     <td class="s42" dir="ltr">Supervised Data Mining - Decision Trees</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08a-datamining-supervised-decisiontrees.pdf">x</a></td>
@@ -707,7 +707,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/15</td>
-                    <td class="s26" dir="ltr">8b</td>
+                    <td class="s26" dir="ltr">M8b</td>
                     <td class="s42" dir="ltr">Supervised Data Mining - ROC &amp; Cross-validation</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08b-datamining-supervised-ROCs-Cross-validation.pdf">x</a></td>
@@ -722,7 +722,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/15</td>
-                    <td class="s26" dir="ltr">8c</td>
+                    <td class="s26" dir="ltr">M8c</td>
                     <td class="s42" dir="ltr">Supervised Data Mining - SVMs</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08c-datamining-supervised-SVMs.pdf">x</a></td>
@@ -737,7 +737,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/15</td>
-                    <td class="s26" dir="ltr">9a</td>
+                    <td class="s26" dir="ltr">M9a</td>
                     <td class="s42" dir="ltr">Unsupervised Data Mining - Clustering</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09a-datamining-unsupervised--clustering.pdf">x</a></td>
@@ -752,7 +752,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/15</td>
-                    <td class="s26" dir="ltr">9b</td>
+                    <td class="s26" dir="ltr">M9b</td>
                     <td class="s42" dir="ltr">Unsupervised Data Mining - Community Detection</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09b-datamining-unsupervised--community-detection.pdf">x</a></td>
@@ -767,7 +767,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/17</td>
-                    <td class="s26" dir="ltr">9c</td>
+                    <td class="s26" dir="ltr">M9c</td>
                     <td class="s42" dir="ltr">Unsupervised Data Mining - SVD</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09c-datamining-unsupervised--svd.pdf">x</a></td>
@@ -782,7 +782,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/17</td>
-                    <td class="s26" dir="ltr">9d</td>
+                    <td class="s26" dir="ltr">M9d</td>
                     <td class="s42" dir="ltr">Unsupervised Data Mining - RCA &amp; CCA</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09d-datamining-unsupervised--rca-cca.pdf">x</a></td>
@@ -797,7 +797,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/17</td>
-                    <td class="s26" dir="ltr">9e</td>
+                    <td class="s26" dir="ltr">M9e</td>
                     <td class="s42" dir="ltr">Unsupervised Data Mining - tSNE &amp; LDA</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09e-datamining-unsupervised--tsne-lda.pdf">x</a></td>
@@ -823,7 +823,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/29</td>
-                    <td class="s26" dir="ltr">10a</td>
+                    <td class="s26" dir="ltr">M10a</td>
                     <td class="s42" dir="ltr">Networks - Introduction</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10a-network-topology-analysis.pdf">x</a></td>
@@ -838,7 +838,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/29</td>
-                    <td class="s26" dir="ltr">10b</td>
+                    <td class="s26" dir="ltr">M10b</td>
                     <td class="s42" dir="ltr">Networks - Network Quantities</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10b-network-topology-analysis.pdf">x</a></td>
@@ -853,7 +853,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/29</td>
-                    <td class="s26" dir="ltr">10c</td>
+                    <td class="s26" dir="ltr">M10c</td>
                     <td class="s42" dir="ltr">Networks - Network Generation Models</td>
                     <td class="s31" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10c-network-topology-analysis.pdf">x</a></td>
@@ -868,7 +868,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/29</td>
-                    <td class="s26" dir="ltr">10d</td>
+                    <td class="s26" dir="ltr">M10d</td>
                     <td class="s42" dir="ltr">Networks - Central Points</td>
                     <td class="s36" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10d-network-topology-analysis.pdf">x</a></td>
@@ -894,7 +894,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/22</td>
-                    <td class="s26" dir="ltr"></td>
+                    <td class="s26" dir="ltr">M11</td>
                     <td class="s46" dir="ltr">Privacy</td>
                     <td class="s47"></td>
                     <td class="s32" dir="ltr">
@@ -919,7 +919,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">3/31</td>
-                    <td class="s27" dir="ltr">1</td>
+                    <td class="s27" dir="ltr">M12a</td>
                     <td class="s46" dir="ltr">Deep Learning I</td>
                     <td class="s32" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.31/DeepLearning_I_IntroDL.pdf">x</a></td>
@@ -933,7 +933,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">4/5</td>
-                    <td class="s26" dir="ltr">2</td>
+                    <td class="s26" dir="ltr">M12b</td>
                     <td class="s46">Deep Learning II</td>
                     <td class="s32" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.05/DeepLearning_II_2021.pdf">x</a></td>
@@ -947,7 +947,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">4/7</td>
-                    <td class="s26" dir="ltr">3</td>
+                    <td class="s26" dir="ltr">M12c</td>
                     <td class="s46">Deep Learning III</td>
                     <td class="s32" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.07/DeepLearning_III_VAE_and_GAN.pdf">x</a></td>
@@ -972,7 +972,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">4/12</td>
-                    <td class="s1"></td>
+                    <td class="s26" dir="ltr">M13a</td>
                     <td class="s14" dir="ltr">Applying Deep Learning to Textmining (Mining biological literature)</td>
                     <td class="s22"></td>
                     <td class="s32" dir="ltr">
@@ -986,7 +986,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s1" dir="ltr">MINING</td>
                     <td class="s45"></td>
                     <td class="s3" dir="ltr">4/12</td>
-                    <td class="s1"></td>
+                    <td class="s26" dir="ltr">M13b</td>
                     <td class="s14" dir="ltr">Applying Deep Learning to Regulatory &amp; Single Cell Genomics</td>
                     <td class="s47" dir="ltr"></td>
                     <td class="s32" dir="ltr">
@@ -1010,7 +1010,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                 <tr style="height: 16px">
                     <td class="s1" dir="ltr" colspan="2">SIMULATION</td>
                     <td class="s3" dir="ltr">4/19</td>
-                    <td class="s26" dir="ltr">1</td>
+                    <td class="s26" dir="ltr">S1</td>
                     <td class="s48" dir="ltr">Analysis of Globular Protein Structure</td>
                     <td class="s32" dir="ltr"></td>
                     <td class="s37" dir="ltr">
@@ -1023,7 +1023,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                 <tr style="height: 16px">
                     <td class="s1" dir="ltr" colspan="2">SIMULATION</td>
                     <td class="s3" dir="ltr">4/21</td>
-                    <td class="s26" dir="ltr">2a</td>
+                    <td class="s26" dir="ltr">S2a</td>
                     <td class="s48" dir="ltr">Random close packing in protein cores #1</td>
                     <td class="s32" dir="ltr"></td>
                     <td class="s37" dir="ltr">
@@ -1036,7 +1036,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                 <tr style="height: 16px">
                     <td class="s1" dir="ltr" colspan="2">SIMULATION</td>
                     <td class="s3" dir="ltr">4/22</td>
-                    <td class="s26" dir="ltr">2b</td>
+                    <td class="s26" dir="ltr">S2b</td>
                     <td class="s48" dir="ltr">Random close packing in protein cores #2</td>
                     <td class="s32" dir="ltr"></td>
                     <td class="s37" dir="ltr">
@@ -1049,7 +1049,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                 <tr style="height: 16px">
                     <td class="s1" dir="ltr" colspan="2">SIMULATION</td>
                     <td class="s3">4/26</td>
-                    <td class="s26" dir="ltr">3</td>
+                    <td class="s26" dir="ltr">S3</td>
                     <td class="s49" dir="ltr">Molecular simulations of intrinsically disordered proteins</td>
                     <td class="s37" dir="ltr"></td>
                     <td class="s37" dir="ltr">
