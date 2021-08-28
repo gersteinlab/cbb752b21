@@ -462,7 +462,7 @@ Please see lab [permissions statement](https://sites.gersteinlab.org/permissions
                     <td class="s29" dir="ltr">INTRO</td>
                     <td class="s34" dir="ltr"></td>
                     <td class="s22" dir="ltr">2/24</td>
-                    <td class="s26" dir="ltr"></td>
+                    <td class="s26" dir="ltr">I3</td>
                     <td class="s14" dir="ltr">A subject perspective on the personal genome</td>
                     <td class="s32" dir="ltr">
                         <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.24/Zimmer_MBB_452_genome_talk_2021.pdf">x</a></td>
